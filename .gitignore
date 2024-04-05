@@ -1,3 +1,9 @@
+# CMake & IDE
+build/
+cmake-build-debug/
+.DS_Store
+.idea
+
 # Prerequisites
 *.d
 
